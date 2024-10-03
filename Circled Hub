@@ -21,8 +21,8 @@ local Window = Rayfield:CreateWindow({
       Note = "Key is DROPTHESCRIPTBRO",
       FileName = "Key",
       SaveKey = true,
-      GrabKeyFromSite = false,
-      Key = {"DROPTHESCRIPTBRO"}
+      GrabKeyFromSite = true,
+      Key = {"https://scwz.me/8S27lf, FIRSTRELEASELETSGO"}
    }
 })
 
